@@ -1,4 +1,4 @@
-import RPi.GPIO as a
+fir se changeimport RPi.GPIO as a
 import time as sleep
 but=19
 led=21
